@@ -1,0 +1,18 @@
+.hello{
+    background-color: blue;
+    height: 80px;
+}
+.b1{
+    background-color: green;
+    height: 200px;
+    display: block;
+}
+.b2{
+    background-color: bisque;
+    height:200px;
+    float: right;
+}
+.bye{
+    background-color: grey;
+    height: 80px;
+}

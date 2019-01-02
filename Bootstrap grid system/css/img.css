@@ -1,0 +1,39 @@
+.hello{
+    background-color: peachpuff;
+    height: 120px;
+}
+.b1{
+    background-color: coral;
+    height: 768px;
+    background-image: url('../image/Desert.jpg');
+ 
+    background-size: contain;
+}
+.b2{
+    background-color: aquamarine;
+    height: 160px;
+}
+.bye{
+    background-color: greenyellow;
+    height: 110px;
+}
+.b4{
+    background-color: bisque;
+    height: 110px;
+}
+.b5{
+    background-color: aquamarine;
+    height: 160px;
+}
+.last1{
+    background-color: brown;
+    height: 110px;
+}
+.last2{
+    background-color: aquamarine;
+    height: 110px;
+}
+.last3{
+    background-color: aquamarine;
+    height: 110px;
+}

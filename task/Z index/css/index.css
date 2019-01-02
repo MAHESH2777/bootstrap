@@ -1,0 +1,11 @@
+p{
+ position: absolute;
+    z-index: 1;
+    top: 200px;
+    left: 80px;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-style: italic;
+    
+    
+}
